@@ -1,0 +1,12 @@
+venv
+
+gesture_data*
+output
+recordings
+*.npy
+
+*.keras
+!gesture_transformer_model.keras
+
+*.pkl
+!gesture_labels.pkl
